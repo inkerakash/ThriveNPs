@@ -1,0 +1,400 @@
+@media only screen and (max-width: 3000px) {
+    .custom-container {
+        padding: 0 150px;
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 2500px) {
+    .custom-container {
+        padding: 0 100px
+    }
+
+}
+
+@media only screen and (max-width: 1400px) {
+    .custom-container {
+        padding: 0 50px
+    }
+    h1 {
+        font-size: 45px;
+        line-height: 50.8px;
+    }
+    .get-ready-career {
+        padding: 50px 0px;
+    }
+    .session-right-you, .what-change-after-section, .what-you-learn, .fax-outer, .client-testimonial, .benefit-webiner {
+        padding: 70px 0px;
+    }
+    .webiner-buttons {
+        gap: 15px;
+        padding: 23px;
+    }
+}
+
+@media only screen and (max-width: 1199px) {
+    .hero-banner {
+        padding: 70px 0px 70px 0px;
+    }
+    .counter-box {
+        padding: 15px 35px;
+        max-width: calc(33% - 15px);
+    }
+    span.gradient-text-bg {
+        padding: 10px;
+    }
+    h2 {
+        font-size: 35px;
+        line-height: 45px;
+    }
+    .benefit-webiner .flex-box {
+        gap: 30px;
+    }
+    .webiner-form {
+        max-width: calc(40% - 15px);
+    }
+    .webiner-content {
+        max-width: calc(60% - 15px);
+    }
+    .form-wrapper {
+        padding: 80px 35px 35px;
+    }
+    .form-wrapper .time-number {
+        font-size: 35px;
+    }
+    p {
+        font-weight: 600;
+        font-size: 17px;
+        line-height: 30px;
+    }
+    .webiner-content li {
+        gap: 16px;
+        margin: 0;
+    }
+    .webiner-content li span img {
+        width: 22px;
+    }
+    .client-Item {
+        gap: 18px;
+        padding: 20px 20px 20px 20px;
+        margin-bottom: 20px;
+    }
+   .owl-dots {
+        margin-top: 15px;
+    }
+    .learn-card {
+        padding: 20px 40px;
+        margin: 15px 0px;
+        gap: 18px;
+    }
+    footer.footer img {
+        max-width: 80%;
+    }    
+    .session-card li {
+        gap: 14px;
+        margin: 15px 0px;
+    }
+    .session-card {
+        max-width: calc(50% - 15px);
+        padding: 25px;
+    }
+    .testimonial-icon .play-btn img {
+        max-width: 70px;
+    }
+    .hero-video-btn img {
+        max-width: 70px;
+    }
+    h1 {
+        font-size: 40px;
+        line-height: 50px;
+    }
+    .hero-banner-thumb .banner-info {
+        max-width: 400px;
+        padding: 25px 20px;
+    }
+    .hero-banner-cntn p {
+        margin: 18px 0px;
+        font-size: 18px;
+    }
+    .counter-box p {
+        font-size: 18px;
+        margin-top: 5px;
+    }
+    .hero-banner-cntn {
+        padding: 50px 0px;
+        max-width: calc(50% - 15px);
+    }
+    .faq-question h5 {
+        font-size: 20px;
+        line-height: 28.8px;
+    }
+    .faq-question {
+        padding: 15px 20px;
+    }
+    .faq-answer {
+        padding: 0 25px;
+        font-size: 16px;
+        line-height: 27px;
+    }
+    .counter-box h4 {
+     font-size: 25px;
+    }
+}
+
+@media only screen and (max-width: 991px) {
+
+    .custom-container {
+        padding: 0 30px
+    }
+    h2 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .hero-banner {
+        padding: 60px 0px 60px 0px;
+    }
+    .hero-banner-thumb .banner-info h4 {
+        font-size: 22px;
+        line-height: 33.6px;
+    }
+    .webiner-form, .webiner-content {
+        max-width: calc(50% - 15px);
+    }
+    .form-wrapper .btn-book {
+        padding: 20px;
+        font-size: 16px;
+        font-weight: 600;
+        margin-top: 4px;
+        letter-spacing: 1PX;
+    }
+    .session-right-you, .what-change-after-section, .what-you-learn, .fax-outer, .client-testimonial, .benefit-webiner {
+        padding: 60px 0px;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .webiner-form, .webiner-content {
+        max-width: calc(100% - 0px);
+    }
+    .benefit-webiner .global-header {
+        margin-bottom: 50px;
+    }
+    .form-wrapper {
+        padding: 72px 20px 20px;
+    }
+    .form-wrapper .form-input {
+        padding: 14px 15px;
+        font-size: 16px;
+        font-weight: 500;
+    }
+    .date-button {
+        gap: 10px;
+        padding: 10px 20px 10px 20px;
+    }
+    .webiner-content li {
+        gap: 11px;
+        margin: 0;
+    }
+    .date-button .date {
+        font-size: 16px;
+        font-weight: 600;
+    }
+    .session-right-you, .what-change-after-section, .what-you-learn, .fax-outer, .client-testimonial, .benefit-webiner {
+        padding: 50px 0px;
+    }
+    .client-testimonial .global-header {
+        margin: 0px auto 40px;
+    }
+    .global-header p {
+        font-size: 16px;
+        line-height: 27.2px;
+        margin-top: 4px;
+    }
+    .client-info p {
+        margin: 17px 0px;
+        font-size: 16px;
+        line-height: 25px;
+    }
+    .owl-dots {
+        margin-top: 8px;
+    }
+    h1 {
+        font-size: 35px;
+        line-height: 42px;
+    }
+    .session-card li {
+        gap: 14px;
+        margin: 8px 0px;
+    }
+    .global-header {
+        margin: 0 auto 28px;
+    }
+    .change-after-card {
+        padding: 18px;
+    }
+    .learn-card {
+        padding: 20px 18px;
+        margin: 12px 0px;
+        gap: 14px;
+    }
+    .faq-icon {
+        width: 26px;
+        height: 26px;
+        font-size: 25px;
+    }
+    .hero-banner-cntn {
+        padding: 22px 0px;
+        max-width: calc(100% - 0px);
+        text-align: center;
+    }
+    .hero-banner-thumb {
+        max-width: calc(100% - 0px);
+    }
+    .hero-banner-thumb .banner-info {
+        max-width: calc(100% - 40px);
+        padding: 20px 15px;
+        transform: translate(0px, -20%);
+    }
+    .hero-banner-thumb .banner-info p {
+        font-size: 14px;
+        line-height: 18px;
+        max-width: 90%;
+        margin: 15px auto 0;
+    }
+    .counter-box {
+        padding: 15px 35px;
+        max-width: calc(50% - 15px);
+    }
+    .form-wrapper::before {
+        top: 20px;
+        width: 200px;
+        height: 220px;
+    }
+    .form-wrapper .time-number {
+        font-size: 29px;
+    }
+    .hero-banner-cntn p {
+        margin: 18px 0px 5px;
+        font-size: 16px;
+    }
+    h2 {
+        font-size: 25px;
+        line-height: 35px;
+    }
+    .session-card {
+        max-width: calc(100% - 15px);
+        padding: 25px;
+    }
+    .change-after-card {
+        max-width: calc(100% - 15px);
+        padding: 20px;
+    }
+    .counter-box {
+        padding: 15px 25px;
+        max-width: calc(100% - 15px);
+    }
+    .hero-banner {
+        padding: 50px 0px 50px 0px;
+    }
+    a.logo-box img {
+        width: 120px;
+    }
+    .faq-answer {
+        padding: 0 20px;
+        font-size: 16px;
+    }
+    .top-bar ul.contact-info {
+        gap:12px;
+    }
+    .top-bar ul.contact-info li {
+        gap: 9px;
+    }
+    .hero-banner {
+        padding: 20px 0px 50px 0px;
+    }
+    .top-bar ul.contact-info {
+        gap: 12px;
+        flex: auto;
+        width: 100%;
+        justify-content: center;
+        margin-top: 20px;
+    }
+    .top-bar .flex-box {
+        justify-content: center;
+        border-bottom: 1px solid #e7e7e7;
+        padding-bottom: 21px;
+    }
+    .counter-box p {
+        font-size: 16px;
+        margin-top: 5px;
+    }
+    .video-popup {
+        padding: 12px;
+    }
+    .video-popup-dialog {
+        padding: 14px;
+        border-radius: 14px;
+    }
+    .video-popup-close {
+        width: 34px;
+        height: 34px;
+        font-size: 28px;
+        top: 7px;
+        right: 7px;
+    }
+}
+@media only screen and (max-width: 575px) {
+    .custom-container {
+        padding: 0 20px
+    }
+    h1 {
+        font-size: 30px;
+        line-height: 42px;
+    }
+    p, .faq-answer{
+        font-size: 15px;
+    }
+    .session-card li {
+        gap: 10px;
+        margin: 3px 0px;
+    }
+    .session-right-you, .what-change-after-section, .what-you-learn, .fax-outer, .client-testimonial, .benefit-webiner {
+        padding: 40px 0px;
+    }
+    .get-ready-career {
+        padding: 38px 0px;
+    }
+    .form-wrapper .time-number {
+        font-size: 25px;
+    }
+    .hero-banner-cntn {
+        padding: 0px 0px 22px;
+    }
+    .testimonial-icon .play-btn img {
+        max-width: 50px;
+    }
+    .hero-video-btn img {
+        max-width: 50px;
+    }
+    h1 {
+        font-size: 25px;
+        line-height: 35px;
+    }
+    h2 {
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .counter-box h4 {
+        font-size: 22px;
+    }
+    .benefit-webiner .global-header h2 {
+    line-height: 48px;
+    }
+    .benefit-webiner .global-header {
+        margin-bottom: 32px;
+    }
+    .faq-question h5 {
+        font-size: 17px;
+        line-height: 22.8px;
+    }
+}

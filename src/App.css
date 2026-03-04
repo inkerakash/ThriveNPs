@@ -1,0 +1,40 @@
+@import './assets/css/owl.carousel.min.css';
+@import './assets/css/style.css';
+@import './assets/css/responsive.css';
+
+:root {
+  --gradient-bg: linear-gradient(106.31deg, #FDEFFF 1.03%, #F1F5F8 41.46%);
+}
+
+.video-popup-open {
+  overflow: hidden;
+}
+
+/* Swiper custom styling to match Owl Carousel dots */
+.swiper-pagination {
+  margin-top: 30px !important;
+  position: relative !important;
+  bottom: 0 !important;
+}
+
+.swiper-pagination-bullet {
+  width: 8px !important;
+  height: 8px !important;
+  background: #000000 !important;
+  opacity: 1 !important;
+  margin: 5px !important;
+  transition: all 0.3s ease !important;
+}
+
+.swiper-pagination-bullet-active {
+  background: #6B4CCF !important;
+  opacity: 1 !important;
+}
+
+.faq-answer {
+  transition: height 0.3s ease-out;
+}
+
+.owl-carousel {
+  display: block !important;
+}
